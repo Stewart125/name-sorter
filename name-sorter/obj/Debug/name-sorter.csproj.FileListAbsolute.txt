@@ -1,0 +1,6 @@
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\bin\Debug\name-sorter.exe.config
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\bin\Debug\name-sorter.exe
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\bin\Debug\name-sorter.pdb
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\obj\Debug\name-sorter.csprojResolveAssemblyReference.cache
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\obj\Debug\name-sorter.exe
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorter\obj\Debug\name-sorter.pdb

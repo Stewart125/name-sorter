@@ -1,0 +1,9 @@
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\name-sorterTests.dll
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\name-sorterTests.pdb
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\name-sorter.exe
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\name-sorter.pdb
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\obj\Debug\name-sorterTests.csprojResolveAssemblyReference.cache
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\obj\Debug\name-sorterTests.dll
+c:\users\stewart\documents\visual studio 2015\Projects\name-sorter\name-sorterTests\obj\Debug\name-sorterTests.pdb
